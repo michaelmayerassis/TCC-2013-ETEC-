@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/11/06 21:57:23.218.pas,C:\TCC-Gerenciamento\Unit1.pas=C:\TCC-Gerenciamento\UProcessos.pas</Transaction>
+    <Transaction>2012/11/06 21:57:23.218.dfm,C:\TCC-Gerenciamento\Unit1.dfm=C:\TCC-Gerenciamento\UProcessos.dfm</Transaction>
+    <Transaction>2013/03/15 12:31:27.420.pas,C:\TCC-Gerenciamento\Unit1.pas=C:\TCC-Gerenciamento\UAndamento_Processo.pas</Transaction>
+    <Transaction>2013/03/15 12:31:27.438.dfm,C:\TCC-Gerenciamento\Unit1.dfm=C:\TCC-Gerenciamento\UAndamento_Processo.dfm</Transaction>
+    <Transaction>2013/03/19 14:20:20.264.pas,C:\Users\michael\Desktop\TCC-Gerenciamento\Unit1.pas=C:\Users\michael\Desktop\TCC-Gerenciamento\UPesquisa.pas</Transaction>
+    <Transaction>2013/03/19 14:20:20.282.dfm,C:\Users\michael\Desktop\TCC-Gerenciamento\Unit1.dfm=C:\Users\michael\Desktop\TCC-Gerenciamento\UPesquisa.dfm</Transaction>
+    <Transaction>2013/03/19 15:10:18.806.pas,C:\Users\michael\Desktop\TCC-Gerenciamento\Unit1.pas=C:\Users\michael\Desktop\TCC-Gerenciamento\ULocalizarProc.pas</Transaction>
+    <Transaction>2013/03/19 15:10:18.806.dfm,C:\Users\michael\Desktop\TCC-Gerenciamento\Unit1.dfm=C:\Users\michael\Desktop\TCC-Gerenciamento\ULocalizarProc.dfm</Transaction>
+    <Transaction>2013/03/28 16:00:49.682.pas,C:\Users\michael\Desktop\TCC-Gerenciamento(1)\Unit2.pas=C:\Users\michael\Desktop\TCC-Gerenciamento(1)\URelatorio_Cliente.pas</Transaction>
+    <Transaction>2013/03/28 16:00:49.693.dfm,C:\Users\michael\Desktop\TCC-Gerenciamento(1)\Unit2.dfm=C:\Users\michael\Desktop\TCC-Gerenciamento(1)\URelatorio_Cliente.dfm</Transaction>
+    <Transaction>2013/04/03 13:10:59.277.pas,C:\TCC-Gerenciamento(1)\URelatorio_Cliente.pas=</Transaction>
+    <Transaction>2013/04/03 13:10:59.277.dfm,C:\TCC-Gerenciamento(1)\URelatorio_Cliente.dfm=</Transaction>
+    <Transaction>2013/04/29 15:00:18.345.pas,C:\TCC-Gerenciamento17042013\Unit2.pas=C:\TCC-Gerenciamento17042013\UAgenda.pas</Transaction>
+    <Transaction>2013/04/29 15:00:18.357.dfm,C:\TCC-Gerenciamento17042013\Unit2.dfm=C:\TCC-Gerenciamento17042013\UAgenda.dfm</Transaction>
+    <Transaction>2013/05/20 16:27:58.630.pas,C:\TCC-Gerenciamento\Unit2.pas=C:\TCC-Gerenciamento\URelatorio_Cliente_proc.pas</Transaction>
+    <Transaction>2013/05/20 16:27:58.630.dfm,C:\TCC-Gerenciamento\Unit2.dfm=C:\TCC-Gerenciamento\URelatorio_Cliente_proc.dfm</Transaction>
+    <Transaction>2013/06/02 11:45:50.811.pas,C:\TCC-Gerenciamento\Unit2.pas=C:\TCC-Gerenciamento\UCreditos.pas</Transaction>
+    <Transaction>2013/06/02 11:45:50.811.dfm,C:\TCC-Gerenciamento\Unit2.dfm=C:\TCC-Gerenciamento\UCreditos.dfm</Transaction>
+    <Transaction>2013/06/02 15:15:59.928.pas,C:\TCC-Gerenciamento\Unit2.pas=C:\TCC-Gerenciamento\UTermosDeUso.pas</Transaction>
+    <Transaction>2013/06/02 15:15:59.928.dfm,C:\TCC-Gerenciamento\Unit2.dfm=C:\TCC-Gerenciamento\UTermosDeUso.dfm</Transaction>
+    <Transaction>2013/06/04 16:30:21.641.pas,C:\TCC-Gerenciamento\Unit2.pas=C:\TCC-Gerenciamento\USplash.pas</Transaction>
+    <Transaction>2013/06/04 16:30:21.641.dfm,C:\TCC-Gerenciamento\Unit2.dfm=C:\TCC-Gerenciamento\USplash.dfm</Transaction>
+    <Transaction>2013/08/16 21:35:53.894.pas,C:\TCC-Gerenciamento\Unit2.pas=C:\TCC-Gerenciamento\URelatorio_And_Proc.pas</Transaction>
+    <Transaction>2013/08/16 21:35:53.894.dfm,C:\TCC-Gerenciamento\Unit2.dfm=C:\TCC-Gerenciamento\URelatorio_And_Proc.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
